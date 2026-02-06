@@ -26,6 +26,29 @@ Helps find essential farming resources including:
 ### 👤 User Management
 Secure registration and login system for personalized access.
 
+## 🖼️ Visual Overview
+
+### 🔐 Authentication (New Tailwind UI)
+![Login Page](screenshots/5.png)
+*Modern, responsive Login page with glassmorphism and agricultural theme.*
+
+![Registration Page](screenshots/6.png)
+*Cohesive Registration page for new users.*
+
+### 🏠 Dashboard & Features
+![Hero Section](screenshots/2.png)
+*The welcoming landing page with agricultural inspiration.*
+
+![Features Section](screenshots/1.png)
+*Quick access to Crop Prediction, Fertilizer Recommendations, and more.*
+
+### 📄 Information & Services
+![Government Policies](screenshots/3.png)
+*Access to essential government schemes and policies.*
+
+![About Us](screenshots/4.png)
+*Information about "The Farmers Friend" mission.*
+
 ## 🛠️ Technology Stack
 
 - **Backend**: Python, Flask
