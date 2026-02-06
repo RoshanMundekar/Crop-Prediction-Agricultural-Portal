@@ -1,0 +1,16 @@
+Flask
+PyMySQL
+Werkzeug
+pandas
+numpy
+tensorflow
+keras
+scikit-learn
+beautifulsoup4
+requests
+geopy
+lxml
+html5lib
+scipy
+matplotlib
+Pillow
